@@ -1,4 +1,4 @@
-# Mushroom Classification and Clustering with K-Means
+# Mushroom Clustering with K-Means
 This machine learning project utilizes the K-Means clustering algorithm to analyze and classify mushrooms based on their features, determining whether they are edible or inedible.
 
 ## Features:
